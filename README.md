@@ -18,3 +18,4 @@ If you are developing a production application, we recommend using TypeScript wi
 <li>add react-router dom for for showing data relative tab of side bar</li>
 <li>using bootstrap CSS,bootstrap-icons library</li>
 <li>add charts from rechatrs library</li>
+<li>adding filter and sorting data</li>
