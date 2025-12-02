@@ -19,4 +19,4 @@ If you are developing a production application, we recommend using TypeScript wi
 <li>using bootstrap CSS,bootstrap-icons library</li>
 <li>add charts from rechatrs library</li>
 <li>adding filter and sorting data</li>
-<li>showind detail page whenever click on user list item/li>
+<li>showing detail page whenever click on user list item/li>
