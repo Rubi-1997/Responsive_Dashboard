@@ -27,7 +27,7 @@ function App() {
         <Routes>
           <Route path="/users" element={<User_List setid={setid} setdetailData={setdetailData}/>}>User List</Route>
           <Route path="/User_Detail" element={<User_Detail id={id} detailData={detailData}/>}>User Detail</Route>
-          <Route path="/overview" element={<Overview/>}>Overview</Route>
+          <Route path="/analytics" element={<Overview/>}>Overview</Route>
           
         </Routes>
       </Router>

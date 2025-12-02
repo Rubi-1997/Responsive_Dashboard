@@ -11,7 +11,7 @@ const SideBar = () => {
               <span className="fs-4 d-none d-sm-inline ms-1">Side menu</span>
             </a>
             <hr className="d-none text-white d-sm-block"></hr>
-            <ul className="nav nav-pills flex-column px-2">
+            <ul className="nav flex-column px-2">
               
               <li className="nav-item text-white fs-5 my-1 py-2 py-sm-0">
                 <Link to="/users" className="nav-link text-white active" href="#" aria-current="page">
